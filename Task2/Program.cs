@@ -16,3 +16,10 @@ double product3 = d1 * i1;
 Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
+
+int quotion = i1 / i2;
+Console.WriteLine(quotion);
+
+double d2 = 6;
+double quotion2 = i1 / d2;
+Console.WriteLine(quotion2);
