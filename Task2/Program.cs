@@ -23,3 +23,12 @@ Console.WriteLine(quotion);
 double d2 = 6;
 double quotion2 = i1 / d2;
 Console.WriteLine(quotion2);
+
+
+int a = 3;
+long b = 54;
+double c = 6.5;
+int d = 7;
+
+double calc = (a * b) / (c+d);
+Console.WriteLine(calc);
